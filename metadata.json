@@ -1,0 +1,7 @@
+{
+  "name": "3C時間銀行",
+  "description": "一款家長管理的遊戲化應用程式，讓孩子透過完成任務賺取螢幕時間，具備AI報告與任務生成功能。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
